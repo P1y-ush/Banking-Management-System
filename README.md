@@ -23,7 +23,7 @@ It ensures **data security, role-based access control**, and **synchronization**
 ---
 
 ### 🧑‍💼 Employee
-- Login System (one session per user)
+    - Login System (one session per user)
     - Add New Customer
     - Modify Customer Details
     - Process Loan Applications
@@ -37,7 +37,7 @@ It ensures **data security, role-based access control**, and **synchronization**
 ---
 
 ### 👨‍💼 Manager
-◦ Login System (one session per user)
+    - Login System (one session per user)
     - Activate/Deactivate Customer Accounts
     - Assign Loan Application Processes to Employees
     - Review Customer Feedback
@@ -48,7 +48,7 @@ It ensures **data security, role-based access control**, and **synchronization**
 ---
 
 ### 🛠️ Administrator
-◦ Login System (one session per user)
+    - Login System (one session per user)
     - Add New Bank Employee
     - Modify Customer/Employee Details
     - Manage User Roles
